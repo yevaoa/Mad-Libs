@@ -1,10 +1,20 @@
 # Mad Libs
-This is a game that allows users to input a certain text to fill in the template and create a unique story.
 
-It contains 3 templates which won't reveal to the user, keeping the mysterious sensations.
+A terminal-based word game where players select a hidden story template and enter custom words to generate a unique, unpredictable story.
 
-The user needs to:
-1. Choose a number (from 0 to 2) to choose a template
-2. Start inputting text
+## Overview
 
-In the end, a story with those inputs will be showcased.
+Mad Libs keeps the narrative concealed until the very end. Players pick from three mystery templates and supply requested parts of speech or text inputs, resulting in a personalized story revealed only after all prompts are completed.
+
+## Features
+
+- **Three Hidden Templates:** Choose between templates `0`, `1` and `2` without seeing the storyline beforehand.
+- **Interactive Text Input:** Fill in prompts step by step to shape the outcome.
+- **Final Story Reveal:** Displays the completed story populated with your custom inputs.
+
+## How to Play
+
+1. Launch the game.
+2. Enter a number from `0` to `2` to select a secret story template.
+3. Follow the prompts to input your words or text.
+4. Read the final generated story once all inputs are submitted.
